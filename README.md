@@ -64,9 +64,9 @@ Open a web browser or use tools like [curl](https://curl.se/) or [Postman](https
 - **About Route ("/about"):**
   [http://localhost:3000/about](http://localhost:3000/about)
 
-  Response: "<h1>About US</h1>"
+  Response: "<h1.>About US</h1.>"
 
 - **Contact Route ("/contact"):**
   [http://localhost:3000/contact](http://localhost:3000/contact)
 
-  Response: "<h1>Contact US</h1>"
+  Response: "<h1.>Contact US</h1.>"
